@@ -1,4 +1,3 @@
 y,m = input().split('-')
-#print(y,end="")
-#print(m)
-print(y,m,sep=":"sep="")
+print(y,end="")
+print(m)
