@@ -1,0 +1,5 @@
+a, b = map(int, input().split())
+bool_a = bool(a)
+bool_b = bool(b)
+result = not (bool_a or bool_b)
+print(result)
